@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-01-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A rua Sete de Setembro está sem manutenção há meses, com diversas rachaduras no asfalto que atrapalham o trânsito de carros e motos."
+  },
+  {
+    "id": "M002",
+    "data": "2026-01-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moradores estão despejando lixo doméstico às margens do riacho que corta o bairro Boa Vista, causando mau cheiro e atraindo insetos."
+  },
+  {
+    "id": "M003",
+    "data": "2026-01-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, próximo ao número 450, que já causou danos a pneus de vários veículos que passam pelo local."
+  },
+  {
+    "id": "M004",
+    "data": "2026-01-20",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal José de Alencar está sem professor de matemática há três semanas e os alunos do 9º ano estão sem aula da disciplina."
+  },
+  {
+    "id": "M005",
+    "data": "2026-01-22",
+    "categoria_oficial": "saúde",
+    "texto": "Sou moradora do bairro Vila Nova e gostaria de relatar a situação crítica do Posto de Saúde da Família da nossa região. Há mais de dois meses o posto está funcionando sem nenhum médico clínico geral, apenas com uma enfermeira que faz o possível para atender a demanda. Idosos com pressão alta e diabetes, que precisam de acompanhamento contínuo, estão tendo que se deslocar até o centro da cidade, o que é muito difícil para quem tem mobilidade reduzida. Já fizemos três reclamações verbais na secretaria de saúde e nunca obtivemos retorno. Pedimos providências urgentes, pois a situação está colocando em risco a saúde de dezenas de famílias que dependem exclusivamente do SUS nesta região."
+  },
+  {
+    "id": "M006",
+    "data": "2026-01-25",
+    "categoria_oficial": "segurança",
+    "texto": "A praça central está sem iluminação há duas semanas, o que tem facilitado assaltos durante a noite, segundo relatos de vizinhos."
+  },
+  {
+    "id": "M007",
+    "data": "2026-01-28",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma empresa próxima ao rio Taperoá está despejando efluentes sem tratamento, deixando a água com coloração escura e cheiro forte."
+  },
+  {
+    "id": "M008",
+    "data": "2026-02-02",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro Alto do Mateus está sem médico há semanas, deixando a população sem atendimento clínico básico na região."
+  },
+  {
+    "id": "M009",
+    "data": "2026-02-05",
+    "categoria_oficial": "educação",
+    "texto": "A merenda escolar da Escola Estadual Castro Alves está atrasando quase todos os dias, e algumas turmas ficam sem lanche até o final da aula."
+  },
+  {
+    "id": "M010",
+    "data": "2026-02-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Os postes de iluminação da Rua das Flores estão apagados há mais de um mês, deixando a via completamente escura durante a noite."
+  },
+  {
+    "id": "M011",
+    "data": "2026-02-10",
+    "categoria_oficial": "segurança",
+    "texto": "Câmeras de monitoramento da praça do bairro Centro estão quebradas há meses e nunca foram substituídas, aumentando a sensação de insegurança."
+  },
+  {
+    "id": "M012",
+    "data": "2026-02-12",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há um acúmulo de lixo em um terreno baldio na Rua Santa Rita que está virando ponto de descarte irregular e criadouro de mosquitos da dengue."
+  },
+  {
+    "id": "M013",
+    "data": "2026-02-15",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada em frente ao número 120 da Rua Duque de Caxias está completamente destruída, dificultando a passagem de cadeirantes e idosos."
+  },
+  {
+    "id": "M014",
+    "data": "2026-02-18",
+    "categoria_oficial": "educação",
+    "texto": "O transporte escolar da zona rural está atrasando todos os dias pela manhã, fazendo com que os alunos percam a primeira aula com frequência."
+  },
+  {
+    "id": "M015",
+    "data": "2026-02-20",
+    "categoria_oficial": "segurança",
+    "texto": "Venho relatar um problema recorrente de segurança no entorno da Escola Municipal Monteiro Lobato, no bairro Cruzeiro. Nos últimos dois meses, tem havido diversos casos de assédio e pequenos furtos contra alunos na saída das aulas, principalmente no turno da noite, quando a rua já está escura devido à falta de iluminação pública adequada. Já presenciei pessoalmente duas ocorrências em que motociclistas passaram arrancando celulares e bolsas de estudantes que estavam esperando os pais. A diretoria da escola diz que já notificou a Guarda Municipal, mas o patrulhamento continua muito esporádico. Solicito reforço de rondas policiais no horário de entrada e saída das aulas, além da reparação urgente da iluminação da rua, para garantir a segurança das nossas crianças e adolescentes."
+  },
+  {
+    "id": "M016",
+    "data": "2026-02-23",
+    "categoria_oficial": "saúde",
+    "texto": "A fila para marcar consulta com cardiologista no centro de especialidades está com mais de quatro meses de espera, o que preocupa pacientes crônicos."
+  },
+  {
+    "id": "M017",
+    "data": "2026-02-25",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal do centro, dificultando o tráfego e causando vários acidentes de moto no local."
+  },
+  {
+    "id": "M018",
+    "data": "2026-02-27",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Árvores da Praça da Matriz estão sendo cortadas sem autorização aparente, reduzindo a sombra e o conforto térmico da praça no verão."
+  },
+  {
+    "id": "M019",
+    "data": "2026-03-02",
+    "categoria_oficial": "educação",
+    "texto": "A creche municipal do bairro São José está com lista de espera de mais de 80 crianças e não há previsão de abertura de novas vagas."
+  },
+  {
+    "id": "M020",
+    "data": "2026-03-05",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A rede de esgoto da Rua Projetada 3 está vazando há dias, formando uma poça grande e com mau cheiro bem na esquina do quarteirão."
+  },
+  {
+    "id": "M021",
+    "data": "2026-03-08",
+    "categoria_oficial": "segurança",
+    "texto": "Tem ocorrido roubo de fiação elétrica em postes de vários bairros durante a madrugada, deixando ruas inteiras às escuras por dias."
+  },
+  {
+    "id": "M022",
+    "data": "2026-03-10",
+    "categoria_oficial": "saúde",
+    "texto": "Está faltando atendimento no PSF do meu bairro, os pacientes chegam cedo e não conseguem ser vistos por nenhum médico durante o dia."
+  },
+  {
+    "id": "M023",
+    "data": "2026-03-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta seletiva de recicláveis não está sendo feita no bairro Renascer há semanas, e o material está se acumulando nas calçadas."
+  },
+  {
+    "id": "M024",
+    "data": "2026-03-15",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Falta sinalização de trânsito no cruzamento da Rua da Paz com a Avenida Central, o que já causou diversos quase-acidentes entre carros."
+  },
+  {
+    "id": "M025",
+    "data": "2026-03-18",
+    "categoria_oficial": "saúde",
+    "texto": "Gostaria de registrar uma reclamação sobre a falta de medicamentos básicos na farmácia popular do município. Nos últimos meses, remédios essenciais para pacientes hipertensos e diabéticos, como losartana, metformina e insulina, têm faltado com frequência preocupante. Minha mãe, que é idosa e depende desses medicamentos para controlar a pressão arterial, já precisou comprar por conta própria em farmácias particulares, o que representa um peso financeiro considerável para a família. Quando questionamos os funcionários da unidade, eles informam apenas que 'o pedido está atrasado' sem dar mais detalhes sobre quando a situação será normalizada. Entendo que pode haver questões logísticas na distribuição, mas isso não pode se tornar recorrente, pois coloca em risco a saúde de pessoas que dependem exclusivamente do sistema público. Peço que a secretaria de saúde informe um prazo claro para a regularização do estoque."
+  },
+  {
+    "id": "M026",
+    "data": "2026-03-20",
+    "categoria_oficial": "educação",
+    "texto": "O telhado da Escola Municipal Rui Barbosa está com goteiras em três salas de aula, obrigando os alunos a mudarem de sala em dias de chuva."
+  },
+  {
+    "id": "M027",
+    "data": "2026-03-23",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Um bueiro sem tampa na Rua Amazonas está representando risco para pedestres e ciclistas, principalmente durante a noite."
+  },
+  {
+    "id": "M028",
+    "data": "2026-03-25",
+    "categoria_oficial": "segurança",
+    "texto": "A viatura da Guarda Municipal que fazia ronda no bairro Industrial parou de circular há um mês, e os moradores notaram aumento de furtos."
+  },
+  {
+    "id": "M029",
+    "data": "2026-03-28",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há descarte irregular de lixo e entulho de construção em um terreno vazio na Rua das Palmeiras, atraindo ratos e outros animais peçonhentos."
+  },
+  {
+    "id": "M030",
+    "data": "2026-03-30",
+    "categoria_oficial": "educação",
+    "texto": "Faltam livros didáticos de ciências para os alunos do 7º ano na Escola Municipal Machado de Assis desde o início do ano letivo."
+  },
+  {
+    "id": "M031",
+    "data": "2026-04-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A lâmpada do poste em frente à praça central está queimada há semanas e ninguém da prefeitura veio fazer a substituição até agora."
+  },
+  {
+    "id": "M032",
+    "data": "2026-04-05",
+    "categoria_oficial": "saúde",
+    "texto": "O estoque de vacinas contra a gripe no posto de saúde central acabou antes do previsto, e muitos idosos não conseguiram se vacinar este ano."
+  },
+  {
+    "id": "M033",
+    "data": "2026-04-08",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimadas irregulares têm sido feitas em um terreno próximo à zona residencial do bairro Campina, gerando fumaça densa que atrapalha a respiração dos moradores."
+  },
+  {
+    "id": "M034",
+    "data": "2026-04-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A ponte de madeira que liga o bairro Ribeirinho ao centro está com tábuas quebradas, oferecendo risco real de queda para quem passa a pé."
+  },
+  {
+    "id": "M035",
+    "data": "2026-04-13",
+    "categoria_oficial": "segurança",
+    "texto": "Escrevo para relatar um problema grave de segurança pública que vem afetando o bairro Jardim das Acácias nos últimos três meses. Tem se tornado cada vez mais comum a presença de grupos de motociclistas praticando 'rachas' e manobras perigosas durante a madrugada, principalmente nos finais de semana, na avenida que passa em frente ao conjunto habitacional. O barulho excessivo acorda famílias inteiras, incluindo crianças pequenas e idosos, e já houve pelo menos um acidente em que um dos motociclistas colidiu com um poste, felizmente sem vítimas fatais. Moradores relatam medo de sair de casa durante a noite devido à velocidade excessiva dos veículos. Já ligamos para o número de emergência da Guarda Municipal em diversas ocasiões, mas quando a viatura chega, os motociclistas já fugiram do local. Solicitamos a instalação de lombadas eletrônicas e um reforço no patrulhamento noturno da região, especialmente às sextas e sábados."
+  },
+  {
+    "id": "M036",
+    "data": "2026-04-16",
+    "categoria_oficial": "educação",
+    "texto": "Não há intérprete de Libras disponível na Escola Municipal Paulo Freire para atender um aluno surdo matriculado na turma do 5º ano."
+  },
+  {
+    "id": "M037",
+    "data": "2026-04-19",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um vazamento na rede de água tratada na Rua dos Ipês está desperdiçando uma quantidade enorme de água há mais de uma semana sem reparo."
+  },
+  {
+    "id": "M038",
+    "data": "2026-04-22",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento entre a Avenida Getúlio Vargas e a Rua Bahia está piscando amarelo há dias, causando congestionamento no horário de pico."
+  },
+  {
+    "id": "M039",
+    "data": "2026-04-25",
+    "categoria_oficial": "saúde",
+    "texto": "O tempo de espera para exames de ultrassom no hospital municipal está em torno de seis meses, prejudicando o pré-natal de gestantes da rede pública."
+  },
+  {
+    "id": "M040",
+    "data": "2026-04-28",
+    "categoria_oficial": "educação",
+    "texto": "Gostaria de expor uma situação preocupante na Escola Municipal Villa-Lobos, localizada no bairro Novo Horizonte. A escola não possui rampa de acesso adequada nem banheiro adaptado para alunos com deficiência física, o que fere claramente o direito à acessibilidade garantido por lei. Minha filha, que utiliza cadeira de rodas, estuda no período da manhã e enfrenta dificuldades diárias para se locomover entre as salas de aula, principalmente no bloco onde fica o laboratório de informática, que só é acessível por uma escada. Além disso, o banheiro reservado para pessoas com deficiência está interditado há mais de um ano por problemas na estrutura hidráulica, obrigando minha filha a se deslocar até outro prédio, o que consome um tempo valioso de aula. Já protocolamos um pedido formal de adequação junto à direção da escola em fevereiro deste ano, mas até o momento não recebemos nenhuma resposta concreta sobre prazos de execução das obras necessárias."
+  }
+]
